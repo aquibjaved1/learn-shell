@@ -4,7 +4,7 @@ name=Aquib
 class=Devops
 
 echo student name - $student
-echo class name - $(class)
+echo class name - ${class}
 
 DATE=2023-01-03
 DATE=$(date +%F)
