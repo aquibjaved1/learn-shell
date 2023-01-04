@@ -2,7 +2,7 @@ echo Hello world
 
 echo "**** Hello world ****"
 
-#Color code Syntax : echo -e "\e[COLmMESSAGE\{0m"
+#Color code Syntax : echo -e "\e[COLmMESSAGE\e{0m"
 # Red       -31 - echo -e "\e[31mMESSAGE\e{0m"
 # Green     -32 - echo -e "\e[32mMESSAGE\e{0m"
 # Yellow    -33 - echo -e "\e[33mMESSAGE\e{0m"
