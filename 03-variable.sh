@@ -10,7 +10,7 @@ DATE=2023-01-03
 DATE=$(date +%F)
 echo Hey, Today date is $DATE
 
-ADD=$((2+3=4/5))
+ADD=$((2+3+4/5))
 echo ADD - $ADD
 
 ##Variable from command line
