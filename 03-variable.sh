@@ -12,3 +12,6 @@ echo Hey, Today date is $DATE
 
 ADD=$((2+3))
 echo ADD - $ADD
+
+##Variable from command line
+echo b -$b
